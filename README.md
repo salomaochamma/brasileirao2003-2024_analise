@@ -116,14 +116,6 @@ Rode os notebooks na ordem. O 01 gera os arquivos de `data/processed`, que os ou
 
 [Brasileirao_Dataset](https://github.com/adaoduque/Brasileirao_Dataset), mantido por Adão Duque, com as partidas, gols, cartões e estatísticas da Série A desde 2003.
 
-## Próximos passos
-
-- Testar o mecanismo apontado pela literatura: sem torcida, o árbitro deu menos cartões para o visitante?
-- Incluir a temporada 2025, que na fonte está em JSON e com outro formato
-- Montar o ranking de gols contra por time
-- Medir o efeito da troca de técnico no desempenho dos times
-- Analisar com que frequência quem abre o placar vence
-
 ## Referências
 
 - Dohmen, T. (2008). The influence of social forces: evidence from the behavior of football referees. *Economic Inquiry*, 46(3), 411-424. https://doi.org/10.1111/j.1465-7295.2007.00112.x
