@@ -100,8 +100,8 @@ Problemas encontrados nos dados brutos e como foram tratados (detalhes no [noteb
 Precisa de Python 3.10 ou mais recente.
 
 ```bash
-git clone https://github.com/salomaochamma/brasileirao-analise.git
-cd brasileirao-analise
+git clone https://github.com/salomaochamma/brasileirao2003-2024_analise.git
+cd brasileirao2003-2024_analise
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
