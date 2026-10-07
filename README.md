@@ -5,7 +5,7 @@ Análise exploratória da Série A do Campeonato Brasileiro com Python, SQL, est
 1. **Jogar em casa ainda é vantagem?** E quanto a torcida pesa nisso? A pandemia, com estádios vazios, virou um experimento natural para medir.
 2. **Em que momento do jogo saem os gols?** E o fim do jogo ficou mais decisivo nos últimos anos?
 
-A primeira pergunta tem um motivo pessoal: Fiz graduação em Psicologia, e a influência da torcida é, no fundo, uma questão de comportamento. Por isso os resultados são comparados com o que a pesquisa científica já encontrou (veja [O que a literatura diz](#o-que-a-literatura-diz)).
+A primeira pergunta tem um motivo pessoal: fiz graduação em Psicologia, e a influência da torcida é, no fundo, uma questão de comportamento. Por isso os resultados são comparados com o que a pesquisa científica já encontrou (veja [O que a literatura diz](#o-que-a-literatura-diz)).
 
 ## Principais resultados
 
